@@ -166,4 +166,3 @@ if  __name__ == '__main__':
         d.setStatus(motor=sm, servo=st)
         print("Motor: %0.2f, Servo: %0.2f" % (sm, st))
         time.sleep(0.2)
-

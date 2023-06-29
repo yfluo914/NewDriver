@@ -76,6 +76,3 @@ if __name__=='__main__':
 
             path = os.path.join(output_path, filename)
             cv2.imwrite(path, img_p)
-
-
-
